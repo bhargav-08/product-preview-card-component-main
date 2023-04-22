@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site ](https://bhargav-08.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -75,6 +75,6 @@ I want to do some project on grid in future
 
 ## Author
 
-- Website - []()
+- Website - [Project](https://bhargav-08.github.io/product-preview-card-component-main/)
 - Frontend Mentor - [@bhargav-08](https://www.frontendmentor.io/profile/bhargav-08)
 - Twitter - [@BHARGAV181120](https://twitter.com/BHARGAV181120)
